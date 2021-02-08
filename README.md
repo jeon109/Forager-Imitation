@@ -10,7 +10,7 @@
 - 아르헨티나의 게임 개발팀 HopFrog에서 제작한 인디 게임.
 기본적으로는 농사와 채광을 중심으로 한 시뮬레이션 성향이 강하나, 맵 곳곳에 끊임없이 적과 자 원, 던전이 생성되므로 게임 플레이의 템포가 매우 빠르다.
 - 실제 게임은 https://store.steampowered.com/app/751780/Forager/ 에서 받을 수 있다.
-
+-게임 플레이영상 : https://www.youtube.com/watch?v=9pkxdFFf6VM&list=PLmsQqtQKyKzc1xjM9xiGC7gZ6d20irkrH&index=4
 ## 컨텐츠
 ---
 
